@@ -60,9 +60,6 @@ Click on Follow Link or ```ctrl + click```
 <img width="422" alt="image" src="https://user-images.githubusercontent.com/67726628/222907245-c97e589c-70df-4868-9b8c-5dbbe0cb9863.png">
 
 
-Happy Learning!
-
-
 ## If you want to run this project then open the folder with vs code 
 
 # Run Command 
@@ -72,3 +69,5 @@ Happy Learning!
 Frontend will run automatically basically we followed STEP 5 here!
 
  
+
+Happy Learning!
